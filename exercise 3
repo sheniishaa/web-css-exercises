@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Who Am I</title>
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Internal CSS -->
+    <style>
+        body {
+            background-color: #e6f2ff;
+            font-family: Verdana, sans-serif;
+            margin: 30px;
+        }
+
+        h1 {
+            color: #4CAF50;
+            text-align: center;
+        }
+
+        .content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Who Am I</h1>
+
+    <div class="content">
+        <!-- Inline style applied here -->
+        <p style="color: #3366cc; font-weight: bold;">My name is Sheniishaa S Saekura.</p>
+
+        <p>I'm 22 years old.</p>
+
+        <p>I'm currently studying my degree in New Media Communication at UniMAP.</p>
+    </div>
+
+</body>
+</html>
